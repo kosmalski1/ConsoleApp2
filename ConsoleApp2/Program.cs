@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+
 
 Garen g = new Garen();
 g.ctrl3();
